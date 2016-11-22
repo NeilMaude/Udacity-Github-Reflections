@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	This is kicking off a new project
+	Need to do this to start a fresh repository into which to place files
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	Staging area puts files under Git control
+	But doesn't commit them yet
+	Working directory stuff is not under control, so can be any files
+

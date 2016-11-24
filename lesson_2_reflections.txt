@@ -9,3 +9,17 @@ How is the staging area different from the working directory and the repository?
 	But doesn't commit them yet
 	Working directory stuff is not under control, so can be any files
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+	By adding each file to the staging area once files are updated within the logical change
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	When trying something out
+	When implementing a customer-specific fix to a generic product (hotfix)
+
+How do the diagrams help you visualize the branch structure?
+
+	Can see what relates to what, where to create a new branch if I want one
+	Probably won't ever draw one, but may well use the git log --graph --oneline command to visualise
+

@@ -5,3 +5,15 @@ Sharing and collaboration
 Working from multiple locations/multiple computers
 Manage the volume of commits (vs local data stores)?
 Likely possible to integrate continuous integration/testing/deployment?
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Someone else might be working on those files
+Or you might make some changes locally and there's a risk that they could be over-written by auto updates from the remote
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks - done on GitHub, creates a new branch from someone else's code and gives them credit for it
+Clone - copy of a repo
+Branch - branch and existing repo ... no real other words to describe this.  Allows development on both branches...
+

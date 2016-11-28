@@ -17,3 +17,14 @@ Forks - done on GitHub, creates a new branch from someone else's code and gives 
 Clone - copy of a repo
 Branch - branch and existing repo ... no real other words to describe this.  Allows development on both branches...
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Can work off-line and go back to previous versions
+Speed of merge?
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Without GitHub/Git would require manual sharing of files
+Or would require SourceSafe/TFS in the Microsoft world...
+So cost, or complexity/risk of doing it wrong/human error
+But, really don't like the Git command line stuff and will likely use the GUI version more

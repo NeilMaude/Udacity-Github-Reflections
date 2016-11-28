@@ -1,0 +1,7 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+Backups
+Sharing and collaboration
+Working from multiple locations/multiple computers
+Manage the volume of commits (vs local data stores)?
+Likely possible to integrate continuous integration/testing/deployment?

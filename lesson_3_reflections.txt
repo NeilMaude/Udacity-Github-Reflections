@@ -28,3 +28,10 @@ Without GitHub/Git would require manual sharing of files
 Or would require SourceSafe/TFS in the Microsoft world...
 So cost, or complexity/risk of doing it wrong/human error
 But, really don't like the Git command line stuff and will likely use the GUI version more
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Bespoke solutions for a given customer
+Experimentation/R&D
+Having only a master branch is simple
+But often not practical and restrictive
